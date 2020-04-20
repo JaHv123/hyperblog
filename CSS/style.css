@@ -16,6 +16,12 @@ body{
 
 #container h1{
     margin: 20px;
+    color: black;
+}
+
+#container p{
+    color: black;
+    text-align: left;
 }
 
 #cabecera{
@@ -32,3 +38,4 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
