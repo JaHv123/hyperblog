@@ -30,6 +30,12 @@ body{
     margin: 0px auto;
 }
 
+#container #cabecera{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
 #container h1{
     margin: 20px;
     color: black;
